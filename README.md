@@ -41,6 +41,6 @@ sudo docker run -it --rm --net=host microros/micro-ros-agent:humble udp4 --port 
 ```
 
 ## Notes
-
+- Agent IP  address should be 192.168.0.31
 - Adjust the UDP port as needed (default: 8888).
 - Refer to the micro-ROS documentation for further configuration.
